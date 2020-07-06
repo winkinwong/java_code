@@ -1,6 +1,8 @@
 package test;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Test01 {
 
